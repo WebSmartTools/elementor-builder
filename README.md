@@ -1,4 +1,5 @@
 # elementor-builder
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/websmarttools/elementor-builder)
 
 Build Elementor pages and sections as JSON that imports cleanly the first time.
 
